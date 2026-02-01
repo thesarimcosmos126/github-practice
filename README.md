@@ -1,2 +1,4 @@
-# Github-practice
-My first GitHub repo
+# GitHub Practice
+
+Hi 👋 I'm Sam  
+Learning Git & GitHub step by step 🚀
